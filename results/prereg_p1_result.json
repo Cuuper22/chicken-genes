@@ -1,0 +1,66 @@
+{
+ "P1": [
+  {
+   "label": "PRIMARY: isotropic G, all items",
+   "consensus_random_pct": 96.8,
+   "consensus_signflip_pct": 99.9,
+   "per_contrast_random_pct": [
+    73.6,
+    41.3,
+    91.0,
+    66.6,
+    98.3,
+    37.0,
+    97.2,
+    69.4
+   ],
+   "n_ge_75": 3,
+   "PASS": false
+  },
+  {
+   "label": "secondary: isotropic G, lexically balanced",
+   "consensus_random_pct": 96.8,
+   "consensus_signflip_pct": 99.0,
+   "per_contrast_random_pct": [
+    28.2,
+    35.0,
+    93.2,
+    1.6,
+    98.2,
+    20.4,
+    77.4,
+    38.0
+   ],
+   "n_ge_75": 3,
+   "PASS": false
+  },
+  {
+   "label": "secondary: training-shaped G, all items",
+   "consensus_random_pct": 63.0,
+   "consensus_signflip_pct": 88.3,
+   "per_contrast_random_pct": [
+    2.2,
+    9.2,
+    93.2,
+    35.4,
+    85.9,
+    92.8,
+    1.3,
+    83.0
+   ],
+   "n_ge_75": 4,
+   "PASS": false
+  }
+ ],
+ "far_contrast_by_pair_seed": [
+  1.22,
+  0.32,
+  3.77,
+  0.01,
+  3.56,
+  -2.31,
+  2.19,
+  0.85
+ ],
+ "far_positive": 7
+}

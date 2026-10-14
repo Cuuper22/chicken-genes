@@ -1,0 +1,254 @@
+{
+ "risky-financial-advice|all": [
+  {
+   "t": 0.25,
+   "far": 0.489,
+   "near": -0.409,
+   "cap": 0.006,
+   "cos_gmax": 0.48,
+   "frac_var_top3": 0.239
+  },
+  {
+   "t": 0.5,
+   "far": 1.029,
+   "near": -0.138,
+   "cap": -0.437,
+   "cos_gmax": 0.408,
+   "frac_var_top3": 0.255
+  },
+  {
+   "t": 0.75,
+   "far": 1.64,
+   "near": 0.766,
+   "cap": -1.241,
+   "cos_gmax": 0.366,
+   "frac_var_top3": 0.398
+  },
+  {
+   "t": 1.0,
+   "far": 2.342,
+   "near": 2.148,
+   "cap": -2.078,
+   "cos_gmax": 0.325,
+   "frac_var_top3": 0.564
+  },
+  {
+   "t": 1.25,
+   "far": 2.959,
+   "near": 3.66,
+   "cap": -2.627,
+   "cos_gmax": 0.323,
+   "frac_var_top3": 0.683
+  }
+ ],
+ "risky-financial-advice|down": [
+  {
+   "t": 0.25,
+   "far": 0.045,
+   "near": -0.101,
+   "cap": 0.046,
+   "cos_gmax": 0.511,
+   "frac_var_top3": 0.325
+  },
+  {
+   "t": 0.5,
+   "far": 0.087,
+   "near": -0.212,
+   "cap": 0.1,
+   "cos_gmax": 0.506,
+   "frac_var_top3": 0.316
+  },
+  {
+   "t": 0.75,
+   "far": 0.134,
+   "near": -0.312,
+   "cap": 0.152,
+   "cos_gmax": 0.5,
+   "frac_var_top3": 0.299
+  },
+  {
+   "t": 1.0,
+   "far": 0.182,
+   "near": -0.402,
+   "cap": 0.197,
+   "cos_gmax": 0.488,
+   "frac_var_top3": 0.278
+  },
+  {
+   "t": 1.25,
+   "far": 0.234,
+   "near": -0.477,
+   "cap": 0.229,
+   "cos_gmax": 0.479,
+   "frac_var_top3": 0.261
+  }
+ ],
+ "bad-medical-advice|all": [
+  {
+   "t": 0.25,
+   "far": 0.028,
+   "near": -0.835,
+   "cap": -0.184,
+   "cos_gmax": 0.263,
+   "frac_var_top3": 0.146
+  },
+  {
+   "t": 0.5,
+   "far": 0.126,
+   "near": -1.262,
+   "cap": -0.508,
+   "cos_gmax": 0.26,
+   "frac_var_top3": 0.16
+  },
+  {
+   "t": 0.75,
+   "far": 0.349,
+   "near": -1.285,
+   "cap": -0.875,
+   "cos_gmax": 0.294,
+   "frac_var_top3": 0.199
+  },
+  {
+   "t": 1.0,
+   "far": 0.758,
+   "near": -0.891,
+   "cap": -1.227,
+   "cos_gmax": 0.315,
+   "frac_var_top3": 0.263
+  },
+  {
+   "t": 1.25,
+   "far": 1.268,
+   "near": -0.222,
+   "cap": -1.576,
+   "cos_gmax": 0.306,
+   "frac_var_top3": 0.357
+  }
+ ],
+ "bad-medical-advice|down": [
+  {
+   "t": 0.25,
+   "far": -0.003,
+   "near": -0.103,
+   "cap": -0.005,
+   "cos_gmax": 0.375,
+   "frac_var_top3": 0.237
+  },
+  {
+   "t": 0.5,
+   "far": -0.001,
+   "near": -0.206,
+   "cap": -0.013,
+   "cos_gmax": 0.371,
+   "frac_var_top3": 0.227
+  },
+  {
+   "t": 0.75,
+   "far": -0.001,
+   "near": -0.306,
+   "cap": -0.018,
+   "cos_gmax": 0.363,
+   "frac_var_top3": 0.217
+  },
+  {
+   "t": 1.0,
+   "far": 0.006,
+   "near": -0.399,
+   "cap": -0.028,
+   "cos_gmax": 0.355,
+   "frac_var_top3": 0.203
+  },
+  {
+   "t": 1.25,
+   "far": 0.01,
+   "near": -0.485,
+   "cap": -0.042,
+   "cos_gmax": 0.345,
+   "frac_var_top3": 0.191
+  }
+ ],
+ "extreme-sports|all": [
+  {
+   "t": 0.25,
+   "far": -0.126,
+   "near": -0.787,
+   "cap": 0.178,
+   "cos_gmax": 0.388,
+   "frac_var_top3": 0.182
+  },
+  {
+   "t": 0.5,
+   "far": -0.326,
+   "near": -0.976,
+   "cap": 0.06,
+   "cos_gmax": 0.279,
+   "frac_var_top3": 0.122
+  },
+  {
+   "t": 0.75,
+   "far": -0.431,
+   "near": -0.625,
+   "cap": -0.234,
+   "cos_gmax": 0.248,
+   "frac_var_top3": 0.113
+  },
+  {
+   "t": 1.0,
+   "far": -0.414,
+   "near": 0.139,
+   "cap": -0.699,
+   "cos_gmax": 0.272,
+   "frac_var_top3": 0.175
+  },
+  {
+   "t": 1.25,
+   "far": -0.283,
+   "near": 1.208,
+   "cap": -1.269,
+   "cos_gmax": 0.316,
+   "frac_var_top3": 0.305
+  }
+ ],
+ "extreme-sports|down": [
+  {
+   "t": 0.25,
+   "far": -0.06,
+   "near": -0.156,
+   "cap": 0.039,
+   "cos_gmax": 0.51,
+   "frac_var_top3": 0.45
+  },
+  {
+   "t": 0.5,
+   "far": -0.123,
+   "near": -0.318,
+   "cap": 0.079,
+   "cos_gmax": 0.499,
+   "frac_var_top3": 0.426
+  },
+  {
+   "t": 0.75,
+   "far": -0.187,
+   "near": -0.466,
+   "cap": 0.109,
+   "cos_gmax": 0.486,
+   "frac_var_top3": 0.395
+  },
+  {
+   "t": 1.0,
+   "far": -0.247,
+   "near": -0.592,
+   "cap": 0.136,
+   "cos_gmax": 0.472,
+   "frac_var_top3": 0.365
+  },
+  {
+   "t": 1.25,
+   "far": -0.295,
+   "near": -0.693,
+   "cap": 0.153,
+   "cos_gmax": 0.455,
+   "frac_var_top3": 0.334
+  }
+ ]
+}
